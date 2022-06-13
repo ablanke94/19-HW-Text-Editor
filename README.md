@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-Deployed to heroku here : 
+Deployed to heroku here : https://mysterious-meadow-02915.herokuapp.com/
 
 ## License
 
